@@ -618,22 +618,22 @@ For temperatures above 275 °C, the appliance reduces the temperature to approx.
 
 | Symbol | Heating function | Temperature | Use |
 | --- | --- | --- | --- |
-| `hot air` | “CircoTherm® hot air” | 40 - 200 °C | Bake or roast on one or more levels. The fan distributes the heat from the ring-shaped heating element in the back wall evenly around the cooking compartment. |
-| `top/bottom heat` | “Top/bottom heating” | 50 - 250 °C | Traditionally bake or roast on one level. This type of heating is especially good for cakes with moist toppings. The heat is emitted evenly from above and below. |
-| `hot air grilling` | “Circo-roasting” | 50 - 250 °C | Roast poultry, whole fish or larger pieces of meat. The grill element and the fan switch on and off alternately. The fan circulates the hot air around the food. |
-| `pizza setting` | “Pizza setting” | 50 - 250 °C | Cook pizza or food that requires a lot of heat from below. The bottom heating element and the ring-shaped heating element in the back wall heat the cooking compartment. |
-| `baking bread` | “Bread-baking setting” | 180 - 240 °C | For baking bread, bread rolls and baked goods that require high temperatures. |
-| `grill, large area` | “Full-surface grill” | 50 - 275 °C | For grilling flat items such as steaks, sausages or bread, and for cooking au gratin. The entire area below the grill element becomes hot. |
-| `grill, small area` | “Centre-area grill” | 50 - 275 °C | For grilling small amounts of steaks, sausages or bread, and for cooking au gratin. The central area below the grill element becomes hot. |
-| `bottom heat` | “Bottom heating” | 30 - 250 °C | For cooking in a bain marie and for baking food for extra time. The heat is emitted from below. |
-| `low-temperature cooking` | “Slow cooking” | 70 - 120 °C | For gentle, slow cooking of seared, tender pieces of meat in cookware without a lid. The heat is emitted evenly from above and below at a low temperature. |
-| `dough proving` | “Dough proving” | 2 settings | For proving dough and culturing yoghurt. Dough will prove more quickly than at room temperature. The surface of the dough does not dry out. |
-| `defrost` | “Defrost” | 30 - 60 °C | For gently defrosting frozen food. |
-| `warming plates` | “Preheat cookware” | 30 - 70 °C | For heating cookware. |
-| `keep warm` | “Keep warm” | 60 - 100 °C | For keeping cooked food warm. |
-| `top/bottom heat eco` | “Top/bottom heating eco” | 50 - 250 °C | For gently cooking selected types of food. Heat is emitted from above and below. This type of heating is most effective between 150 and 250 °C. This type of heating is used to determine the energy consumption in the conventional mode. |
-| `hot air eco` | “CircoTherm® eco” | 40 - 200 °C | For gently cooking selected types of food on one level without preheating. The fan distributes the heat from the ring-shaped heating element in the back wall around the cooking compartment. This type of heating is most effective between 125 and 200 °C. This type of heating is used to determine the energy consumption in circulating-air mode and the energy efficiency class. |
-| `reheating` | “Reheat” | 80 - 180 °C | For gently reheating food or for crisping up baked goods. |
+| ![CircoTherm hot air](images/heating-modes/circotherm-hot-air.svg) | “CircoTherm® hot air” | 40 - 200 °C | Bake or roast on one or more levels. The fan distributes the heat from the ring-shaped heating element in the back wall evenly around the cooking compartment. |
+| ![Top/bottom heating](images/heating-modes/top-bottom-heating.svg) | “Top/bottom heating” | 50 - 250 °C | Traditionally bake or roast on one level. This type of heating is especially good for cakes with moist toppings. The heat is emitted evenly from above and below. |
+| ![Circo-roasting](images/heating-modes/circo-roasting.svg) | “Circo-roasting” | 50 - 250 °C | Roast poultry, whole fish or larger pieces of meat. The grill element and the fan switch on and off alternately. The fan circulates the hot air around the food. |
+| ![Pizza setting](images/heating-modes/pizza-setting.svg) | “Pizza setting” | 50 - 250 °C | Cook pizza or food that requires a lot of heat from below. The bottom heating element and the ring-shaped heating element in the back wall heat the cooking compartment. |
+| ![Bread-baking setting](images/heating-modes/bread-baking.svg) | “Bread-baking setting” | 180 - 240 °C | For baking bread, bread rolls and baked goods that require high temperatures. |
+| ![Full-surface grill](images/heating-modes/full-surface-grill.svg) | “Full-surface grill” | 50 - 275 °C | For grilling flat items such as steaks, sausages or bread, and for cooking au gratin. The entire area below the grill element becomes hot. |
+| ![Centre-area grill](images/heating-modes/centre-area-grill.svg) | “Centre-area grill” | 50 - 275 °C | For grilling small amounts of steaks, sausages or bread, and for cooking au gratin. The central area below the grill element becomes hot. |
+| ![Bottom heating](images/heating-modes/bottom-heating.svg) | “Bottom heating” | 30 - 250 °C | For cooking in a bain marie and for baking food for extra time. The heat is emitted from below. |
+| ![Slow cooking](images/heating-modes/slow-cooking.svg) | “Slow cooking” | 70 - 120 °C | For gentle, slow cooking of seared, tender pieces of meat in cookware without a lid. The heat is emitted evenly from above and below at a low temperature. |
+| ![Dough proving](images/heating-modes/dough-proving.svg) | “Dough proving” | 2 settings | For proving dough and culturing yoghurt. Dough will prove more quickly than at room temperature. The surface of the dough does not dry out. |
+| ![Defrost](images/heating-modes/defrost.svg) | “Defrost” | 30 - 60 °C | For gently defrosting frozen food. |
+| ![Preheat cookware](images/heating-modes/preheat-cookware.svg) | “Preheat cookware” | 30 - 70 °C | For heating cookware. |
+| ![Keep warm](images/heating-modes/keep-warm.svg) | “Keep warm” | 60 - 100 °C | For keeping cooked food warm. |
+| ![Top/bottom heating eco](images/heating-modes/top-bottom-heating-eco.svg) | “Top/bottom heating eco” | 50 - 250 °C | For gently cooking selected types of food. Heat is emitted from above and below. This type of heating is most effective between 150 and 250 °C. This type of heating is used to determine the energy consumption in the conventional mode. |
+| ![CircoTherm eco](images/heating-modes/circotherm-eco.svg) | “CircoTherm® eco” | 40 - 200 °C | For gently cooking selected types of food on one level without preheating. The fan distributes the heat from the ring-shaped heating element in the back wall around the cooking compartment. This type of heating is most effective between 125 and 200 °C. This type of heating is used to determine the energy consumption in circulating-air mode and the energy efficiency class. |
+| ![Reheat](images/heating-modes/reheat.svg) | “Reheat” | 80 - 180 °C | For gently reheating food or for crisping up baked goods. |
 
 <a id="manual-7387329035"></a>
 
@@ -653,7 +653,7 @@ Your appliance has four shelf positions. The shelf positions are numbered from b
 
 You can remove the rails, e.g. for cleaning. [Rails](#manual-10655349131)
 
-![shelf supports](https://media3.bsh-group.com/Documents/9001613861/en-GB/Images/svg/9134500363__Web.svg)
+![Shelf positions 1 to 4](images/shelf-levels.svg)
 
 <a id="manual-7391073803"></a>
 

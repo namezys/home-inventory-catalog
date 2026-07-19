@@ -33,8 +33,93 @@
     },
     {
       "path": "manuals/neff-b46ft64n0-62/B46FT64N0-62-user-manual-en.md",
-      "bytes": 222916,
-      "sha256": "4880ee61747f1bf03f8f59b2081729b832fbf4d249cd50fccc0a5f84d8fda10e"
+      "bytes": 223550,
+      "sha256": "69c88ab8e67c8d1123d14bdea32b4ab4f3285f86abe4fce87b8757b8046f5bad"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/shelf-levels.svg",
+      "bytes": 374672,
+      "sha256": "9a8985596eb774a7eabbbb16b4a331ca6a43d8fe63632de4bc3a4bfe31a9fd90"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/circotherm-hot-air.svg",
+      "bytes": 2304,
+      "sha256": "68e5ea17d836192cad1c1932666d7203f3278b68ea6b4bdc1c6e7e806e72c147"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/top-bottom-heating.svg",
+      "bytes": 1213,
+      "sha256": "9cf9be499031d9f0e988937ebe4ef3849727d6c01fcafed543600200f4f236ca"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/circo-roasting.svg",
+      "bytes": 2932,
+      "sha256": "ea9af97c789c77dad77f063d53c57c5c54c8503ccb7b6aa8b08c0783a8f505ff"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/pizza-setting.svg",
+      "bytes": 2404,
+      "sha256": "cc8198a2c40ff377f1193bacc37d70f0e8738a1b3543cf473efc504c6cb712da"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/bread-baking.svg",
+      "bytes": 2049,
+      "sha256": "acd89a038b1ee9c65581986c73d48c3b5fea24ae164dc9ba8ca774477fb48f46"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/full-surface-grill.svg",
+      "bytes": 2695,
+      "sha256": "7ffd59ff7a8644a5474c32f28d258d34d2d41ee3c0327520b7b15c2b6c698300"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/centre-area-grill.svg",
+      "bytes": 1618,
+      "sha256": "6f94713c5e9e5b01e91e26799cb5e6508c30aba2ef75e1ed79921724455b9341"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/bottom-heating.svg",
+      "bytes": 878,
+      "sha256": "6482e1617945450a6cac316c1dea180776a4a19bad297c941da764d843466e00"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/slow-cooking.svg",
+      "bytes": 2682,
+      "sha256": "efe35d7fafb3c09677c415ddd73e27860ad10555a47894c3fa40a54f67b3f9b5"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/dough-proving.svg",
+      "bytes": 1574,
+      "sha256": "3451a1191492c3852f3efec5cfbb57b974b59ec29b383553b5990b38eb473093"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/defrost.svg",
+      "bytes": 2125,
+      "sha256": "3be4ac2191b659744c5c882e9c7c5adc8d4d460ead684394f3758dd39cde6842"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/preheat-cookware.svg",
+      "bytes": 1597,
+      "sha256": "1628bb6cc6b58656db3d03ca7164892750e4dfd55f50c7f28be9289779dee22b"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/keep-warm.svg",
+      "bytes": 1875,
+      "sha256": "116ed2203893083aeb58df174d797e445ad7b688f1597cfc2b429829baf83f0a"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/top-bottom-heating-eco.svg",
+      "bytes": 257286,
+      "sha256": "110337f43274456563ad89e2896f5cadabe6ad76c91a281dd179884ae57021d8"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/circotherm-eco.svg",
+      "bytes": 258952,
+      "sha256": "bd63539eb5fc0be91768b006a6e23dc6d7da0b04be0e0424720ec38800a6d56e"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/images/heating-modes/reheat.svg",
+      "bytes": 3334,
+      "sha256": "58a894c74581b94b8fd577b646d69a301e355b8deafbabb0d1cc883044802297"
     },
     {
       "path": "manuals/neff-b46ft64n0-62/B48FT64H0-user-manual-ru-reference.pdf",
