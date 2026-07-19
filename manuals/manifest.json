@@ -1,0 +1,50 @@
+{
+  "privacy": "Only the explicitly allowlisted files in this manifest are published.",
+  "files": [
+    {
+      "path": "manuals/bosch-pif675fc1e/PIF675FC1E-user-manual-en.pdf",
+      "bytes": 1366826,
+      "sha256": "ee0b89a86c942c514acbdf361dab6e100427e7374f874484c8fdd93031234160"
+    },
+    {
+      "path": "manuals/bosch-pif675fc1e/PIF675FC1E-user-manual-en.md",
+      "bytes": 47966,
+      "sha256": "f373660dc1c9fa55d8a668b930c7f135311bdf8ffdd3053dd4e658d004b18727"
+    },
+    {
+      "path": "manuals/bosch-pif675fc1e/PIF675FC1E-user-manual-ru.pdf",
+      "bytes": 1498261,
+      "sha256": "d969c71e4fbf91904b4e52f1d96ad2fa046bb70707696c11877e133ea231a8a8"
+    },
+    {
+      "path": "manuals/bosch-pif675fc1e/PIF675FC1E-installation-manual-en-ru.pdf",
+      "bytes": 1391090,
+      "sha256": "14869c69e23b161944e597dc0567acf5ad07fb63acd5eaa7091bd072dc2ea705"
+    },
+    {
+      "path": "manuals/bosch-pif675fc1e/PIF675FC1E-installation-manual-en.md",
+      "bytes": 7596,
+      "sha256": "18713c509e98417972c03ee57ee4ce05c4596de22834a08586473b3e19e333c7"
+    },
+    {
+      "path": "manuals/bosch-pif675fc1e/PIF675FC1E-datasheet-ru.pdf",
+      "bytes": 1340177,
+      "sha256": "cad97ad6ffcab0f344da424143f041c3e4c41a5436dd7a405f7f92eec9deabdb"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/B46FT64N0-62-user-manual-en.md",
+      "bytes": 222916,
+      "sha256": "4880ee61747f1bf03f8f59b2081729b832fbf4d249cd50fccc0a5f84d8fda10e"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/B48FT64H0-user-manual-ru-reference.pdf",
+      "bytes": 3893992,
+      "sha256": "9822d1a3573ab70428e432d6a6d09be11b9826627f31fec2def7fdb521ba6a7d"
+    },
+    {
+      "path": "manuals/neff-b46ft64n0-62/B48FT64H0-datasheet-ru-reference.pdf",
+      "bytes": 363522,
+      "sha256": "35bc2ffa2593925ab196e9f32ab096f90c76c3805b547093473efdd4e4419565"
+    }
+  ]
+}
